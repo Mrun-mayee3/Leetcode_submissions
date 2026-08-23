@@ -10,6 +10,6 @@ public:
         for(int num : nums){
             if(mp[num] == 1) return num;
         }
-        return nums[0];
+        return -1;
     }
 };
