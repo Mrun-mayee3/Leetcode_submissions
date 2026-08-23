@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -169,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
