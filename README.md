@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
@@ -174,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
