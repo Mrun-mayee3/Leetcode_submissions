@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
