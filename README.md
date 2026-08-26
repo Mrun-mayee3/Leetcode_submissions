@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
