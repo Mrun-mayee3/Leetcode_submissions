@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0319-bulb-switcher](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0507-perfect-number/) | Easy |
@@ -227,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
