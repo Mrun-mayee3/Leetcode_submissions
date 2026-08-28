@@ -3,7 +3,7 @@ public:
     int bulbSwitch(int n) {
         int count = 0;
 
-        for(long long i = 1; i * i <= n; i++){
+        for(int i = 1; i <= n / i; i++){
             count++;
         }
         return count;
