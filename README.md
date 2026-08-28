@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
@@ -193,4 +194,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
