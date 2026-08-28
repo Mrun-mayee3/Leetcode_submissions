@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -200,10 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -213,4 +216,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
