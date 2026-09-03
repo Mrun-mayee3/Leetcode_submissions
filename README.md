@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3731-find-missing-elements/) | Easy |
@@ -213,14 +215,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
