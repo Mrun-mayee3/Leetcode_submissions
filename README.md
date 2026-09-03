@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
