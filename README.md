@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0035-search-insert-position/) | Easy |
 | [0075-sort-colors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
