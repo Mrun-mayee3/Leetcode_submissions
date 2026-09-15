@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -121,11 +123,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Linked List
