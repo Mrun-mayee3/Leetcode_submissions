@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2427-number-of-common-factors/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
