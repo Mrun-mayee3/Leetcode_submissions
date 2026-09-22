@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
