@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -312,10 +314,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
