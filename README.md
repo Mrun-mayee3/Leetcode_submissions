@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1922-count-good-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1922-count-good-numbers/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1922-count-good-numbers/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
