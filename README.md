@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
