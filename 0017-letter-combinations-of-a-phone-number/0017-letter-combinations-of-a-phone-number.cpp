@@ -21,7 +21,7 @@ public:
 
     void solve(string digits, int n, unordered_map<char, string> mp,
                vector<string>& ans, string& temp, int idx) {
-        if (idx >= n) {
+        if (temp.size() == n) {
             ans.push_back(temp);
             return;
         }
