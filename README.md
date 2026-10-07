@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0263-ugly-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1922-count-good-numbers/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
