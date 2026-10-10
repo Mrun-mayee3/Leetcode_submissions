@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0216-combination-sum-iii/) | Medium |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0912-sort-an-array/) | Medium |
@@ -154,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0035-search-insert-position/) | Easy |
 | [0162-find-peak-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -266,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
