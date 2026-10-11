@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0162-find-peak-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
