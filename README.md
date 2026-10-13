@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
@@ -355,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
