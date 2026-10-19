@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
+| [0860-lemonade-change](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0912-sort-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0912-sort-an-array/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0860-lemonade-change/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
