@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0055-jump-game](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0055-jump-game](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0860-lemonade-change/) | Easy |
 ## Database
