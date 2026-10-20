@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0062-unique-paths/) | Medium |
+| [0067-add-binary](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
+| [0067-add-binary](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Enumeration
