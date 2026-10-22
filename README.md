@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -388,4 +389,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
