@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0455-assign-cookies](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -242,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0202-happy-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
