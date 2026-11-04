@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0455-assign-cookies](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0704-binary-search/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -422,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
