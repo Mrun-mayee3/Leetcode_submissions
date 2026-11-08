@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0137-single-number-ii/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0162-find-peak-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0189-rotate-array/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
