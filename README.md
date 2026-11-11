@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0412-fizz-buzz](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0412-fizz-buzz/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0735-asteroid-collision/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Divide and Conquer
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0856-score-of-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
