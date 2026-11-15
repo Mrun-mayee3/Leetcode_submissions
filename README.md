@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1922-count-good-numbers](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1922-count-good-numbers/) | Medium |
 | [1952-three-divisors](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/0509-fibonacci-number/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/AnxiousDumb7/Leetcode_submissions2/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mrun-mayee3/Leetcode_submissions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
